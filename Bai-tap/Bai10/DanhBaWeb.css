@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color:blue;
+}
+img{
+    width: 10100px;
+    
+}
+div{
+    border:solid 3px rgb(146, 248, 235);
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190703/pngtree-vector-white-background-with-color-abstract-geometric-pattern-of-image_283044.jpg);
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+img{
+    width: 25%;    
+}
+hr{border:  solid 1px red;
+
+}
+
